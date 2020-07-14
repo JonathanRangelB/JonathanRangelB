@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+Im a software Developer from Guadalajara, México.
+
+🌱 I’m currently learning JavaScript, focusing on Frontend Development with React.
+
+📫 How to reach me: email jonathanrangelb@gmail.com
+
+⚡ Fun fact: Im always smiling 😊
 
 <!--
 **JonathanRangelB/JonathanRangelB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
