@@ -53,7 +53,12 @@ Im a software Developer from Guadalajara, México.
 
 [![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=JonathanRangelB&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+Create you own readme just like this one here: [codeSTACKr]
+
 [twitter]: https://twitter.com/JonathanRangelB
 [youtube]: https://www.youtube.com/channel/UCzArYF36bqjvd-p7UxlB-5w
 [linkedin]: https://www.linkedin.com/in/jonathanrangelb/
 [facebook]: https://www.facebook.com/JonathanRangelB
+[codestackr]: https://github.com/codeSTACKr/codeSTACKr
