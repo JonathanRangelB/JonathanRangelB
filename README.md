@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-![snake gif](https://github.com/JonathanRangelB/JonathanRangelB/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/JonathanRangelB/JonathanRangelB/blob/output/github-contribution-grid-snake.svg)
 
 Im a software Developer from Guadalajara, México.
 
