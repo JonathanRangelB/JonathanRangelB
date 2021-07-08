@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
+![snake gif](https://github.com/JonathanRangelB/JonathanRangelB/blob/output/github-contribution-grid-snake.gif)
+
 Im a software Developer from Guadalajara, México.
 
 🌱 I’m currently learning JavaScript, focusing on Frontend Development with React.
